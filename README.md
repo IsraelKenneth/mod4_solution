@@ -1,2 +1,2 @@
-# mod4_solution.github.io
-Coding Assignment for HTML, CSS, and Javascript for Web Developers course
+# mod4_solution
+Solution of assignment of module 4
